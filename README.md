@@ -6,8 +6,8 @@ The best and fastest label tool,At least five times faster than labelimg
 （2）支持自定义加载类别文件
 （3）支持删除无效的标注，适用于删除图片情况下，智能删除标注文件
 （4）支持找回文件，所有删除文件放到回收站，有后悔药吃
-（5）没有任何弹出，经过实际测试比labelimg至少快五倍，也就是说你话费5个小时软件只需要1小时完成
+（5）没有任何弹出窗口，经过实际测试比labelimg至少快五倍，也就是说你花费5个小时软件只需要1小时完成
 （6）此为中文简体软件不支持英文切换
 （7）不支持跨平台，只能在windows上用
-提供的视频教程https://www.bilibili.com/video/BV12T4y1u7Z1/，请观看视频教程
+目前已有很多企业在使用我们的软件，具体使用请参考我们提供的视频教程https://www.bilibili.com/video/BV12T4y1u7Z1/，请观看视频教程
 
